@@ -5,4 +5,4 @@ layout: default
 # 中间件
 
 ## Dubbo
-[Link to another page](./another-page.html).
+[Dubbo客户端如何异步转同步](./another-page.html)
